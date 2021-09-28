@@ -7,12 +7,14 @@ bar.js is a Canvas based simple JavaScript Bar Chart Library to provide a config
 
 ## Installation
 Download the bar.min.jsand include it in your project.
+
 '''html
 <script src="bar.min.js"></scrip>
 '''
 
 ## Usage
 To create the bar chart, you need a block level container like a div or p.
-```html
+
+'''html
 <div id="chart">This will be bar chart!</div>
-```
+'''
